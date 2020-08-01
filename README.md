@@ -6,3 +6,10 @@ Tar foreløpig bachelorgrad i [Informatikk: språkteknologi](https://www.uio.no/
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=LeanderFurumo&show_icons=true&theme=tokyonight)
 
+<img src="https://github-readme-linkedin.vercel.app/education?username=leander-west-furumo-2880251a3" />
+
+<img src="https://github-readme-linkedin.vercel.app/languages?username=leander-west-furumo-2880251a3" />
+
+<img src="https://github-readme-linkedin.vercel.app/skills?username=leander-west-furumo-2880251a3" />
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=LeanderFurumo.visitor-badge)
